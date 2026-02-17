@@ -12,5 +12,6 @@ The main steps performed here are:
    1. Create a project.
    2. Enable the API.
    3. Create our credentials.
+      1. Google Auth platform > Clients > Create Client > Application Type > Select Desktop app > Create > Save the downloaded JSON file
    4. Enable sharing of the sheet to our email address associated with the credentials.
 4. Python script using gspread and pandas 
