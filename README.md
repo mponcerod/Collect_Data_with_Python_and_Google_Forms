@@ -4,6 +4,8 @@ I am collaborating in the organization of an Acroyoga community gathering named 
 
 The aim of this project is to collect data from Google Forms and add it into  Google Sheet file using Google Cloud and Python.
 
+## Main steps 
+
 The main steps performed here are:
 
 1. Create a Google Forms
@@ -14,4 +16,24 @@ The main steps performed here are:
    3. Create our credentials.
       1. Google Auth platform > Clients > Create Client > Application Type > Select Desktop app > Create > Save the downloaded JSON file
    4. Enable sharing of the sheet to our email address associated with the credentials.
-4. Python script using gspread and pandas 
+4. Create a Github project
+5. Create a virtual environment using `uv`.
+6. Develop .py files.
+7. 
+
+## Create a virtual environment using `uv`
+
+Following the guidelines in <https://docs.astral.sh/uv>. I create a virtual environment to work in the project.
+
+```
+# 1. Install uv
+
+# 2. Create a virtual environment
+uv venv
+
+# 3. Initialize the project
+uv init 
+
+# 4. Install libraries
+uv add ***
+```
