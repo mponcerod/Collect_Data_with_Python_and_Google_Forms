@@ -1,10 +1,8 @@
 # Collect_Data_with_Python_and_Google_Forms
 
-I am collaborating in the organization of an Acroyoga community gathering named **EH SuperJam** which takes places at Garaio Lake in Euskal Herria every September. Traditionally, the event registrations are done via Google Forms and afterwards the information is copied to Google Sheet **manually**. 
+I am collaborating in the organization of an Acroyoga community gathering named **EH SuperJam** which takes places at Garaio Lake in Euskal Herria every September. The aim of this project is to collect data from Google Forms using Google Cloud and Python. This is an example on how we can collect data from the server from different years and generate a dashboard with relevant information of the event and it fluctioations.
 
-The aim of this project is to collect data from Google Forms and add it into  Google Sheet file using Google Cloud and Python.
-
-## Main steps 
+## Main steps
 
 The main steps performed here are:
 
@@ -19,7 +17,7 @@ The main steps performed here are:
 4. Create a Github project
 5. Create a virtual environment using `uv`.
 6. Develop .py files.
-7. 
+
 
 ## Create a virtual environment using `uv`
 
